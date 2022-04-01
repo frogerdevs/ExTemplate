@@ -21,3 +21,12 @@ This Template will create dotnet project with Clean Architecture Pattern
 - Domain -> Domain Layer
 - Application -> Application Layer
 - Infrastructure -> Infrastructure Layer
+
+
+
+
+
+<a href="https://www.buymeacoffee.com/frogerdevs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<a href="https://www.buymeacoffee.com/frogerdevs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
